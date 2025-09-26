@@ -1,11 +1,11 @@
-# Projeto: Sistema de Conteúdos Multimídia 🎶🎙️📚
+# Projeto: Sistema de Conteúdos Multimídia 
 
 Este projeto foi desenvolvido como parte da atividade da disciplina de Programação Orientada a Objetos.  
 O objetivo é modelar, a partir de diagramas UML fornecidos, um sistema de streaming com músicas, podcasts e audiobooks.
 
 ---
 
-## 📌 Estrutura do Projeto
+ Estrutura do Projeto
 
 - `Conteudo` (classe abstrata)  
 - `Musica`, `Podcast`, `Audiobook` (especializações de Conteudo)  
@@ -14,5 +14,5 @@ O objetivo é modelar, a partir de diagramas UML fornecidos, um sistema de strea
 
 ---
 
-## 🗂️ Organização dos arquivos
+Organização dos arquivos
 
